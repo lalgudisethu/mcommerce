@@ -1,0 +1,6 @@
+echo "#mcommerce">> readme.md
+git init
+git add readme.md
+git commit -m "first commit"
+git remote add origin https://github.com/lalgudisethu/mcommerce.git
+git push -u origin master
